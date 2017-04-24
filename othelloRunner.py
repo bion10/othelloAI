@@ -2,7 +2,7 @@
 
 from graphics import *
 
-def initPieces(win, locationList, message):
+def initPieces(win):
     loc1 = [3,3]
     loc2 = [4,4]
     loc3 = [3,4]
